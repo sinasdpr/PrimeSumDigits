@@ -47,7 +47,7 @@ python main.py
 
 ## Author
 
-Your Name
+Sina SaeediPour
 
 ## License
 
